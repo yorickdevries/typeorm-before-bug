@@ -1,6 +1,5 @@
 # typeorm-before-bug
-Demonstration of the @BeforeInsert / @BeforeUpdate TypeORM bug
-
+Demonstration of the @BeforeInsert / @BeforeUpdate TypeORM bug  
 See also: https://github.com/typeorm/typeorm/issues/6779
 
 Tested with:
