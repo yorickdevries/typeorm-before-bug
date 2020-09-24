@@ -1,6 +1,7 @@
 # typeorm-before-bug
 Demonstration of the @BeforeInsert / @BeforeUpdate TypeORM bug
-See: https://github.com/typeorm/typeorm/issues/6779
+
+See also: https://github.com/typeorm/typeorm/issues/6779
 
 Tested with:
 - MariaDB 10.1 and 10.5
