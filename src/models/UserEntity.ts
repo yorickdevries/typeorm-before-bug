@@ -24,7 +24,6 @@ export default class UserEntity extends BaseEntity {
     this.lastName = lastName;
   }
 
-  // validateOrReject to be run before saving/updating by TypeORM
   @BeforeInsert()
   @BeforeUpdate()
   async beforeFunction(): Promise<void> {
